@@ -1,0 +1,9 @@
+@INPROCEEDINGS{meese2022bfrt,
+  author={Meese, Collin and Chen, Hang and Asif, Syed Ali and Li, Wanxin and Shen, Chien-Chung and Nejad, Mark},
+  booktitle={2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)}, 
+  title={BFRT: Blockchained Federated Learning for Real-time Traffic Flow Prediction}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={317-326},
+  doi={10.1109/CCGrid54584.2022.00041}}
