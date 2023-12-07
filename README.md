@@ -30,6 +30,8 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 
 ## Main
 
+<a name="perception" />
+
 ### Perception
 + [A Federated Learning-Based License Plate Recognition Scheme for 5G-Enabled Internet of Vehicles](https://ieeexplore.ieee.org/document/9381655) (Kong, Xiangjie et al., TII 2021)   [:book:](./citations/kong2021federated.txt)
 + [Federated Learning for Object Detection in Autonomous Vehicles](https://ieeexplore.ieee.org/document/9564384) (Jallepalli, Deepthi et al., BigDataService 2021)   [:book:](./citations/jallepalli2021federated.txt)
@@ -37,27 +39,28 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 + [Efficient Federated Learning With Spike Neural Networks for Traffic Sign Recognition](https://ieeexplore.ieee.org/abstract/document/9784851) (Xie, Kan et al., TVT 2022)   [:book:](./citations/xie2022efficient.txt)
 + [FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems](https://ieeexplore.ieee.org/document/10236488) (Song, Rui and Xu, Runsheng et al., TIV 2023) [:octocat:](https://github.com/rruisong/FedBEVT) [:book:](./citations/yu2019federated.txt)
 
-<a name="perception" />
+
+<a name="localization" />
 
 ### Localization/SLAM
 + [FedVCP: A Federated-Learning-Based Cooperative Positioning Scheme for Social Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/9378811) (Kong, Xiangjie et al., TCSS 2021)   [:book:](./citations/kong2021fedvcp.txt)
 + [FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516) (Yin, Feng et al., OJSP 2020)   [:book:](./citations/yin2020fedloc.txt)
 + [Reconfigurable Holographic Surface Aided Collaborative Wireless SLAM Using Federated Learning for Autonomous Driving](https://ieeexplore.ieee.org/document/10149400) (Zhang, Haobo et al., TIV 2023)   [:book:](./citations/zhang2023reconfigurable.txt)
 
-<a name="localization" />
 
+<a name="behavior" />
 
 ### Behavior Prediction
 + [Steering Angle Prediction for Autonomous Driving using Federated Learning: The Impact of Vehicle-To-Everything Communication](https://ieeexplore.ieee.org/document/9580097) (M. P. Aparna et al., ICCCNT 2021)   [:book:](./citations/aparna2021steering.txt)
 
-<a name="behavior" />
 
+<a name="trafficflow" />
 
 ### Traffic Flow Prediction
 + [Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach](https://ieeexplore.ieee.org/document/9082655) (Liu, Yi et al., JIOT 2020)   [:book:](./citations/liu2020privacy.txt)
 + [BFRT: Blockchained Federated Learning for Real-time Traffic Flow Prediction](https://ieeexplore.ieee.org/document/9082655) (Meese, Collin et al., CCGrid 2022)   [:book:](./citations/meese2022bfrt.txt)
 
-<a name="trafficflow" />
+<a name="v2x" />
 
 ### V2X Communication
 + [Federated Learning for Ultra-Reliable Low-Latency V2V Communications](https://ieeexplore.ieee.org/document/8647927) (Lim, Wei Yang Bryan et al., GLOBECOM 2018)   [:book:](./citations/samarakoon2018federated.txt)
@@ -67,15 +70,15 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 + [Federated learning in vehicular networks](https://ieeexplore.ieee.org/document/9928621) (Elbir, Ahmet M et al., MeditCom 2022)   [:book:](./citations/elbir2022federated.txt)
 + [Federated Learning on the Road Autonomous Controller Design for Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9806308) (Zeng, Tengchan et al., TWC 2022)   [:book:](./citations/zeng2022federated.txt)
 
-<a name="v2x" />
 
+<a name="electric" />
 
 ### Electric Vehicles
 + [Energy Demand Prediction with Federated Learning for Electric Vehicle Networks](https://ieeexplore.ieee.org/document/9013587) (Saputra, Yuris Mulya M et al., GLOBECOM 2019)   [:book:](./citations/aputra2019energy.txt)
 + [Federated Learning Meets Contract Theory: Economic-Efficiency Framework for Electric Vehicle Networks](https://ieeexplore.ieee.org/document/9300192) (Saputra, Yuris Mulya M et al., TMC 2022)   [:book:](./citations/saputra2022federated.txt)
 
-<a name="electric" />
 
+<a name="blockchain" />
 
 ### Blockchain and Pravicy
 + [Blockchain-based federated learning for device failure detection in industrial IoT](https://ieeexplore.ieee.org/document/9233457) (Zhang, Weishan et al., JIOT 2020)   [:book:](./citations/zhang2020blockchain.txt)
@@ -85,8 +88,7 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 + [Blockchain-Enabled Federated Learning for UAV Edge Computing Network: Issues and Solutions](https://ieeexplore.ieee.org/document/9774400) (Zhu, Chaoyang et al., IEEE Access 2022)   [:book:](./citations/zhu2022blockchain.txt)
 + [Federated Vehicular Transformers and Their Federations: Privacy-Preserving Computing and Cooperation for Autonomous Driving](https://ieeexplore.ieee.org/document/9857660) (Tian, Yonglin et al., TIV 2022)   [:book:](./citations/tian2022federated.txt)
 
-<a name="blockchain" />
-
+<a name="framework" />
 
 ### Framework
 + [Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach](https://ieeexplore.ieee.org/document/8964354) (Ye, Dongdong et al., IEEE Access 2020)   [:book:](./citations/ye2020federated.txt)
@@ -96,16 +98,15 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 + [Federated Transfer Reinforcement Learning for Autonomous Driving](https://link.springer.com/chapter/10.1007/978-3-031-11748-0_15) (Liang, Xinle et al., Federated and Transfer Learning 2022)   [:book:](./citations/liang2023federated.txt)
 
 
-<a name="framework" />
-
+<a name="benchmark" />
 
 ### Benchmark
 + [FedDrive: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9981098/) (Fantauzzo, Lidia et al., IROS 2022) [:octocat:](https://feddrive.github.io) [:book:](./citations/fantauzzo2022feddrive.txt)
 
-<a name="benchmark" />
 
+<a name="survey" />
 
 ### Survey
 + [Federated Learning for Vehicular Internet of Things: Recent Advances and Open Issues](https://ieeexplore.ieee.org/document/9086790) (Du, Zhaoyang et al., OJCS 2020)   [:book:](./citations/du2020federated.txt)
 
-<a name="survey" />
+
