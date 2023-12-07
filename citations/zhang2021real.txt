@@ -1,0 +1,9 @@
+@inproceedings{zhang2021real,
+  title={Real-time end-to-end federated learning: An automotive case study},
+  author={Zhang, Hongyi and Bosch, Jan and Olsson, Helena Holmstr{\"o}m},
+  booktitle={2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)},
+  pages={459--468},
+  year={2021},
+  organization={IEEE},
+  note={{DOI}:~10.1109/COMPSAC51774.2021.00070}
+}

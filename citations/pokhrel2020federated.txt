@@ -1,0 +1,10 @@
+@article{pokhrel2020federated,
+  author={Pokhrel, Shiva Raj and Choi, Jinho},
+  journal={IEEE Transactions on Communications}, 
+  title={Federated Learning With Blockchain for Autonomous Vehicles: Analysis and Design Challenges}, 
+  year={2020},
+  volume={68},
+  number={8},
+  pages={4734-4746},
+  note={{DOI}:~10.1109/TCOMM.2020.2990686}}
+}

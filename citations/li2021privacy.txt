@@ -1,0 +1,9 @@
+@article{li2021privacy,
+  title={Privacy-preserved federated learning for autonomous driving},
+  author={Li, Yijing and Tao, Xiaofeng and Zhang, Xuefei and Liu, Junjie and Xu, Jin},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  year={2022},
+  volume={23},
+  number={7},
+  pages={8423-8434},
+  note={{DOI}:~10.1109/TITS.2021.3081560}}

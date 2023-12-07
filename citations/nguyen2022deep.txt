@@ -1,0 +1,11 @@
+@inproceedings{nguyen2022deep,
+  authorLONG={Nguyen, Anh and Do, Tuong and Tran, Minh and Nguyen, Binh X. and Duong, Chien and Phan, Tu and Tjiputra, Erman and Tran, Quang D.},
+  author={Nguyen, Anh and others},
+  booktitle={2022 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Deep Federated Learning for Autonomous Driving}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1824-1830},
+  note={{DOI}:~10.1109/IV51971.2022.9827020}
+}

@@ -1,0 +1,9 @@
+@inproceedings{elbir2022federated,
+  title={Federated learning in vehicular networks},
+  author={Elbir, Ahmet M and Soner, Burak and {\c{C}}{\"o}leri, Sinem and G{\"u}nd{\"u}z, Deniz and Bennis, Mehdi},
+  booktitle={2022 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)},
+  pages={72--77},
+  year={2022},
+  organization={IEEE},
+  note={{DOI}:~10.1109/MeditCom55741.2022.9928621}
+}

@@ -1,0 +1,11 @@
+@inproceedings{fantauzzo2022feddrive,
+  authorLong={Fantauzzo, Lidia and Fanì, Eros and Caldarola, Debora and Tavera, Antonio and Cermelli, Fabio and Ciccone, Marco and Caputo, Barbara},
+  author={Fantauzzo, Lidia and others},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={{FedDrive}: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={11504-11511},
+  note={{DOI}:~10.1109/IROS47612.2022.9981098}
+}

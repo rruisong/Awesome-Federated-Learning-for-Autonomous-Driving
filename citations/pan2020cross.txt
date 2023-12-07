@@ -1,0 +1,9 @@
+@article{pan2020cross,
+  author={Pan, Bowen and Sun, Jiankai and Leung, Ho Yin Tiga and Andonian, Alex and Zhou, Bolei},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Cross-View Semantic Segmentation for Sensing Surroundings}, 
+  year={2020},
+  volume={5},
+  number={3},
+  pages={4867-4873},
+  note={{DOI}:~10.1109/LRA.2020.3004325}}

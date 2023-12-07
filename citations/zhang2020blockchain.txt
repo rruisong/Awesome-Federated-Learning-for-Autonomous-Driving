@@ -1,0 +1,13 @@
+@article{zhang2020blockchain,
+  title={Blockchain-based federated learning for device failure detection in industrial {IoT}},
+  authorLONG={Zhang, Weishan and Lu, Qinghua and Yu, Qiuyu and Li, Zhaotong and Liu, Yue and Lo, Sin Kit and Chen, Shiping and Xu, Xiwei and Zhu, Liming},
+  author={Zhang, Weishan and others},
+  journal={IEEE Internet of Things Journal},
+  volume={8},
+  number={7},
+  pages={5926--5937},
+  year={2020},
+  publisher={IEEE},
+  note={{DOI}:~10.1109/JIOT.2020.3032544}
+
+}

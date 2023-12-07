@@ -1,0 +1,15 @@
+@inproceedings{yu2019federated,
+  author = {Yu, Peihua and Liu, Yunfeng},
+  title = {Federated Object Detection: Optimizing Object Detection Model with Federated Learning},
+  year = {2020},
+  isbn = {9781450376259},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3387168.3387181},
+  doi = {10.1145/3387168.3387181},
+  articleno = {7},
+  numpages = {6},
+  keywords = {Object Detection, Federated Averaging, Non-IID Data, SSD, Federated Learning},
+  location = {Vancouver, BC, Canada},
+  series = {ICVISP 2019}
+}

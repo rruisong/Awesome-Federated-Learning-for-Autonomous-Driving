@@ -1,0 +1,9 @@
+@article{kong2021federated,
+  author={Kong, Xiangjie and Wang, Kailai and Hou, Mingliang and Hao, Xinyu and Shen, Guojiang and Chen, Xin and Xia, Feng},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={A Federated Learning-Based License Plate Recognition Scheme for {5G}-Enabled {Internet }of Vehicles}, 
+  year={2021},
+  volume={17},
+  number={12},
+  pages={8523-8530},
+  note={{DOI:}~10.1109/TII.2021.3067324}}

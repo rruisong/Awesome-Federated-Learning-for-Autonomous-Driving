@@ -1,0 +1,9 @@
+@ARTICLE{wang2022federated,
+  author={Wang, Shuai and Li, Chengyang and Ng, Derrick Wing Kwan and Eldar, Yonina C. and Poor, H. Vincent and Hao, Qi and Xu, Chengzhong},
+  journal={IEEE Network}, 
+  title={Federated Deep Learning Meets Autonomous Vehicle Perception: Design and Verification}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/MNET.104.2100403}}

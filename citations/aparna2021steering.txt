@@ -1,0 +1,9 @@
+@inproceedings{aparna2021steering,
+  author={M. P. Aparna and R. Gandhiraj and Panda, Manoj},
+  booktitle={2021 12th International Conference on Computing Communication and Networking Technologies (ICCCNT)}, 
+  title={Steering Angle Prediction for Autonomous Driving using Federated Learning: The Impact of Vehicle-To-Everything Communication}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-7},
+  note={{DOI}:~10.1109/ICCCNT51525.2021.9580097}}

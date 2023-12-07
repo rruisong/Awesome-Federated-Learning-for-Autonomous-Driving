@@ -1,0 +1,9 @@
+@article{kong2021fedvcp,
+  author={Kong, Xiangjie and Gao, Haoran and Shen, Guojiang and Duan, Gaohui and Das, Sajal K.},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={{FedVCP}: A Federated-Learning-Based Cooperative Positioning Scheme for Social Internet of Vehicles}, 
+  year={2022},
+  volume={9},
+  number={1},
+  pages={197-206},
+  note={{DOI}:~10.1109/TCSS.2021.3062053}}

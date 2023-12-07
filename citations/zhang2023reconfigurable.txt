@@ -1,0 +1,10 @@
+@article{zhang2023reconfigurable,
+  authorLong={Zhang, Haobo and Yang, Ziang and Tian, Yonglin and Zhang, Hongliang and Di, Boya and Song, Lingyang},
+  author={Zhang, Haobo and others},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Reconfigurable Holographic Surface Aided Collaborative Wireless {SLAM} Using Federated Learning for Autonomous Driving}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-17},
+  note={{DOI}:~10.1109/TIV.2023.3285592}}}

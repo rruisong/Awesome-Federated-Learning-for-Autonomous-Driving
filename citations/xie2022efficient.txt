@@ -1,0 +1,10 @@
+@article{xie2022efficient,
+  authorLong={Xie, Kan and Zhang, Zhe and Li, Bo and Kang, Jiawen and Niyato, Dusit and Xie, Shengli and Wu, Yi},
+  author={Xie, Kan and others},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Efficient Federated Learning With Spike Neural Networks for Traffic Sign Recognition}, 
+  year={2022},
+  volume={71},
+  number={9},
+  pages={9980-9992},
+  note={{DOI}:~10.1109/TVT.2022.3178808}}

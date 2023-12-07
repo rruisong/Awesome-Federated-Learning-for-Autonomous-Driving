@@ -1,0 +1,9 @@
+@article{zhu2022blockchain,
+  author={Zhu, Chaoyang and Zhu, Xiao and Ren, Junyu and Qin, Tuanfa},
+  journal={IEEE Access}, 
+  title={Blockchain-Enabled Federated Learning for {UAV} Edge Computing Network: Issues and Solutions}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={56591-56610},
+  note={{DOI}:~10.1109/ACCESS.2022.3174865}}

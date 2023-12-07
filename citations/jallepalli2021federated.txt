@@ -1,0 +1,9 @@
+@inproceedings{jallepalli2021federated,
+  author={Jallepalli, Deepthi and Ravikumar, Navya Chennagiri and Badarinath, Poojitha Vurtur and Uchil, Shravya and Suresh, Mahima Agumbe},
+  booktitle={2021 IEEE Seventh International Conference on Big Data Computing Service and Applications (BigDataService)}, 
+  title={Federated Learning for Object Detection in Autonomous Vehicles}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={107-114},
+  note={{DOI}:~10.1109/BigDataService52369.2021.00018}}

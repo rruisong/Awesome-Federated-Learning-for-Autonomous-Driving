@@ -1,0 +1,9 @@
+@article{he2021bift,
+  author={He, Ying and Huang, Ke and Zhang, Guangzheng and Yu, F. Richard and Chen, Jianyong and Li, Jianqiang},
+  journal={IEEE Internet of Things Journal}, 
+  title={Bift: A Blockchain-Based Federated Learning System for Connected and Autonomous Vehicles}, 
+  year={2022},
+  volume={9},
+  number={14},
+  pages={12311-12322},
+  note={{DOI}:~10.1109/JIOT.2021.3135342}}

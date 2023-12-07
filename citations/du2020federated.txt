@@ -1,0 +1,11 @@
+@article{du2020federated,
+  authorLONG={Du, Zhaoyang and Wu, Celimuge and Yoshinaga, Tsutomu and Yau, Kok-Lim Alvin and Ji, Yusheng and Li, Jie},
+  author={Du, Zhaoyang and others},
+  journal={IEEE Open Journal of the Computer Society}, 
+  title={Federated Learning for Vehicular Internet of Things: Recent Advances and Open Issues}, 
+  year={2020},
+  volume={1},
+  number={},
+  pages={45-61},
+  note={{DOI}:~10.1109/OJCS.2020.2992630}
+}

@@ -1,0 +1,9 @@
+@ARTICLE{10236488,
+  author={Song, Rui and Xu, Runsheng and Festag, Andreas and Ma, Jiaqi and Knoll, Alois},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TIV.2023.3310674}}

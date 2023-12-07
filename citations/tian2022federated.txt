@@ -1,0 +1,9 @@
+@ARTICLE{tian2022federated,
+  author={Tian, Yonglin and Wang, Jiangong and Wang, Yutong and Zhao, Chen and Yao, Fei and Wang, Xiao},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={Federated Vehicular Transformers and Their Federations: Privacy-Preserving Computing and Cooperation for Autonomous Driving}, 
+  year={2022},
+  volume={7},
+  number={3},
+  pages={456-465},
+  note={{DOI}:~10.1109/TIV.2022.3197815}}
