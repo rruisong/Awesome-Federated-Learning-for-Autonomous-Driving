@@ -8,15 +8,16 @@ This repository is dedicated to curating a comprehensive collection of research 
 
 Its goal is to offer a more detailed and organized overview of this field. We warmly welcome contributions from everyone in the form of additional relevant papers, as well as suggestions to enhance the repository. Thank you for your support and collaboration.
 
+If you find this repository useful, please let me know with your stars:star:. Thank you!
 
 ## Contents
 - [Main](#main)
   - [Perception](#perception)
-  - [Behavior Prediction](#behavior)
   - [Localization/SLAM](#localization)
+  - [Behavior Prediction](#behavior)
   - [Traffic Flow Prediction](#trafficflow)
   - [V2X Communication](#v2x)
-  - [Electric Vehicle](#electric)
+  - [Electric Vehicles](#electric)
   - [Blockchain and Pravicy](#blockchain)
   - [Framework](#framework)
   - [Benchmark](#benchmark)
@@ -36,19 +37,19 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 
 <a name="perception" />
 
-
-### Behavior Prediction
-+ [Steering Angle Prediction for Autonomous Driving using Federated Learning: The Impact of Vehicle-To-Everything Communication](10.1109/ICCCNT51525.2021.9580097) (M. P. Aparna et al., ICCCNT 2021) [:octocat:]() [:book:](./citations/aparna2021steering.txt)
-
-<a name="behavior" />
-
-
 ### Localization/SLAM
 + [FedVCP: A Federated-Learning-Based Cooperative Positioning Scheme for Social Internet of Vehicles](10.1109/TCSS.2021.3062053) (Kong, Xiangjie et al., TCSS 2021) [:octocat:]() [:book:](./citations/kong2021fedvcp.txt)
 + [Reconfigurable Holographic Surface Aided Collaborative Wireless SLAM Using Federated Learning for Autonomous Driving](10.1109/TIV.2023.3285592) (Zhang, Haobo et al., TIV 2023) [:octocat:]() [:book:](./citations/zhang2023reconfigurable.txt)
 + [FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](10.1109/OJSP.2020.3036276) (Yin, Feng et al., OJSP 2020) [:octocat:]() [:book:](./citations/yin2020fedloc.txt)
 
 <a name="localization" />
+
+
+### Behavior Prediction
++ [Steering Angle Prediction for Autonomous Driving using Federated Learning: The Impact of Vehicle-To-Everything Communication](10.1109/ICCCNT51525.2021.9580097) (M. P. Aparna et al., ICCCNT 2021) [:octocat:]() [:book:](./citations/aparna2021steering.txt)
+
+<a name="behavior" />
+
 
 ### Traffic Flow Prediction
 + [Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach](10.1109/JIOT.2020.2991401) (Liu, Yi., JIOT 2020) [:octocat:]() [:book:](./citations/liu2020privacy.txt)
@@ -67,7 +68,7 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 <a name="v2x" />
 
 
-### Electric Vehicle
+### Electric Vehicles
 + [Energy Demand Prediction with Federated Learning for Electric Vehicle Networks](10.1109/GLOBECOM38437.2019.9013587) (Saputra, Yuris Mulya M et al., GLOBECOM 2019) [:octocat:]() [:book:](./citations/aputra2019energy.txt)
 
 + [Federated Learning Meets Contract Theory: Economic-Efficiency Framework for Electric Vehicle Networks](10.1109/TMC.2020.3045987) (Saputra, Yuris Mulya M et al., TMC 2022) [:octocat:]() [:book:](./citations/saputra2022federated.txt)
