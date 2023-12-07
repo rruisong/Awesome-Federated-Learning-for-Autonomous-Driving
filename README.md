@@ -26,16 +26,10 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 ## Main
 
 ### Perception
-+ [Federated Learning for Object Detection in Autonomous Vehicles](10.1109/BigDataService52369.2021.00018) (Jallepalli, Deepthi et al., BigDataService 2021) [:octocat:]() [:book:](./citations/jallepalli2021federated.txt)
-
 + [A Federated Learning-Based License Plate Recognition Scheme for 5G-Enabled Internet of Vehicles](10.1109/TII.2021.3067324) (Kong, Xiangjie et al., TII 2021) [:octocat:]() [:book:](./citations/kong2021federated.txt)
-
++ [Federated Learning for Object Detection in Autonomous Vehicles](10.1109/BigDataService52369.2021.00018) (Jallepalli, Deepthi et al., BigDataService 2021) [:octocat:]() [:book:](./citations/jallepalli2021federated.txt)
 + [Federated Deep Learning Meets Autonomous Vehicle Perception: Design and Verification](10.1109/MNET.104.2100403) (Wang, Shuai et al., IEEE Network 2022) [:octocat:]() [:book:](./citations/wang2022federated.txt)
-
 + [Efficient Federated Learning With Spike Neural Networks for Traffic Sign Recognition](10.1109/TVT.2022.3178808) (Xie, Kan et al., TVT 2022) [:octocat:]() [:book:](./citations/xie2022efficient.txt)
-
-+ [Federated Object Detection: Optimizing Object Detection Model with Federated Learning](https://doi.org/10.1145/3387168.3387181) (Yu, Peihua and Liu, Yunfeng, ICVISP 2019) [:octocat:]() [:book:](./citations/yu2019federated.txt)
-
 + [FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems](https://ieeexplore.ieee.org/document/10236488) (Song, Rui and Xu, Runsheng et al., TIV 2023) [:octocat:](https://github.com/rruisong/FedBEVT) [:book:](./citations/yu2019federated.txt)
 
 <a name="perception" />
@@ -49,7 +43,6 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 
 ### Localization/SLAM
 + [FedVCP: A Federated-Learning-Based Cooperative Positioning Scheme for Social Internet of Vehicles](10.1109/TCSS.2021.3062053) (Kong, Xiangjie et al., TCSS 2021) [:octocat:]() [:book:](./citations/kong2021fedvcp.txt)
-
 + [Reconfigurable Holographic Surface Aided Collaborative Wireless SLAM Using Federated Learning for Autonomous Driving](10.1109/TIV.2023.3285592) (Zhang, Haobo et al., TIV 2023) [:octocat:]() [:book:](./citations/zhang2023reconfigurable.txt)
 
 <a name="localization" />
@@ -62,27 +55,19 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 
 
 ### Blockchain and Pravicy
-+ [Bift: A Blockchain-Based Federated Learning System for Connected and Autonomous Vehicles](10.1109/JIOT.2021.3135342) (He, Ying et al., JIOT 2022) [:octocat:]() [:book:](./citations/he2021bift.txt)
-
 + [Blockchain-based federated learning for device failure detection in industrial IoT](10.1109/JIOT.2020.3032544) (Zhang, Weishan et al., JIOT 2020) [:octocat:]() [:book:](./citations/zhang2020blockchain.txt)
-
-+ [Blockchain-Enabled Federated Learning for UAV Edge Computing Network: Issues and Solutions](10.1109/ACCESS.2022.3174865) (Zhu, Chaoyang et al., IEEE Access 2022) [:octocat:]() [:book:](./citations/zhu2022blockchain.txt)
-
-+ [Privacy-preserved federated learning for autonomous driving](10.1109/TITS.2021.3081560) (Li, Yijing et al., TITS 2021) [:octocat:]() [:book:](./citations/li2021privacy.txt)
-
 + [Federated Learning With Blockchain for Autonomous Vehicles: Analysis and Design Challenges](10.1109/TCOMM.2020.2990686) (Pokhrel, Shiva Raj and Choi, Jinho, TCOMM 2020) [:octocat:]() [:book:](./citations/pokhrel2020federated.txt)
-
++ [Privacy-preserved federated learning for autonomous driving](10.1109/TITS.2021.3081560) (Li, Yijing et al., TITS 2021) [:octocat:]() [:book:](./citations/li2021privacy.txt)
++ [Bift: A Blockchain-Based Federated Learning System for Connected and Autonomous Vehicles](10.1109/JIOT.2021.3135342) (He, Ying et al., JIOT 2022) [:octocat:]() [:book:](./citations/he2021bift.txt)
++ [Blockchain-Enabled Federated Learning for UAV Edge Computing Network: Issues and Solutions](10.1109/ACCESS.2022.3174865) (Zhu, Chaoyang et al., IEEE Access 2022) [:octocat:]() [:book:](./citations/zhu2022blockchain.txt)
 + [Federated Vehicular Transformers and Their Federations: Privacy-Preserving Computing and Cooperation for Autonomous Driving](10.1109/TIV.2022.3197815) (Tian, Yonglin et al., TIV 2022) [:octocat:]() [:book:](./citations/tian2022federated.txt)
 
 <a name="blockchain" />
 
 
 ### Framework
-
 + [Real-time end-to-end federated learning: An automotive case study](10.1109/COMPSAC51774.2021.00070) (Zhang, Hongyi et al., COMPSAC 2021) [:octocat:]() [:book:](./citations/zhang2021real.txt)
-
 + [Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](10.1109/ITSC55140.2022.9922064) (Song, Rui et al., ITSC 2022) [:octocat:]() [:book:](./citations/song2022federated.txt)
-
 + [Deep Federated Learning for Autonomous Driving](10.1109/IV51971.2022.9827020) (Nguyen, Anh et al., IEEE IV 2022) [:octocat:]() [:book:](./citations/nguyen2022deep.txt)
 
 <a name="framework" />
@@ -95,7 +80,6 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 
 
 ### Survey
-
 + [Federated Learning for Vehicular Internet of Things: Recent Advances and Open Issues](10.1109/OJCS.2020.2992630) (Du, Zhaoyang et al., OJCS 2020) [:octocat:]() [:book:](./citations/du2020federated.txt)
 
 <a name="survey" />
