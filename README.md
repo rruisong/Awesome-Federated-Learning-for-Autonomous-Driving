@@ -5,11 +5,14 @@
 
 
 
-This repository is dedicated to curating a comprehensive collection of research papers that explore the implementation of federated learning in Autonomous Driving (AD), Intelligent Transportation Systems (ITS), and Connected and Automated Vehicles (CAV).
+This repository is dedicated to curating a comprehensive collection of research papers that explore the implementation of federated learning in 
+  - Autonomous Driving (AD), 
+  - Intelligent Transportation Systems (ITS), 
+  - and Connected and Automated Vehicles (CAV).
 
 ![drawing](assets/fl_in_v2x.png)
 
-Its goal is to offer a more detailed and organized overview of this field. We warmly welcome contributions from everyone in the form of additional relevant papers, as well as suggestions to enhance the repository. Thank you for your support and collaboration.
+Welcome contributions from everyone in the form of additional relevant papers, as well as suggestions to enhance the repository. **Feel free to create issues in this repository or email me.** Thank you for your support and collaboration!
 
 
 ## Contents
