@@ -8,7 +8,6 @@ This repository is dedicated to curating a comprehensive collection of research 
 
 Its goal is to offer a more detailed and organized overview of this field. We warmly welcome contributions from everyone in the form of additional relevant papers, as well as suggestions to enhance the repository. Thank you for your support and collaboration.
 
-If you find this repository useful, please let me know with your stars:star:. Thank you!
 
 ## Contents
 - [Main](#main)
