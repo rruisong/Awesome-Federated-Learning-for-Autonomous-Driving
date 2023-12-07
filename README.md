@@ -30,8 +30,7 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 ### Perception
 + [A Federated Learning-Based License Plate Recognition Scheme for 5G-Enabled Internet of Vehicles](https://ieeexplore.ieee.org/document/9381655) (Kong, Xiangjie et al., TII 2021)   [:book:](./citations/kong2021federated.txt)
 + [Federated Learning for Object Detection in Autonomous Vehicles](https://ieeexplore.ieee.org/document/9564384) (Jallepalli, Deepthi et al., BigDataService 2021)   [:book:](./citations/jallepalli2021federated.txt)
-+ [Federated Deep Learning Meets Autonomous Vehicle Perception: Design and Verification](https://ieeexplore.ieee.org/document/9982368) (Wang, Shuai et al., IEEE Network 2022) [:octocat:](https://github.com/SIATINVS/
-CarlaFLCAV) [:book:](./citations/wang2022federated.txt)
++ [Federated Deep Learning Meets Autonomous Vehicle Perception: Design and Verification](https://ieeexplore.ieee.org/document/9982368) (Wang, Shuai et al., IEEE Network 2022) [:octocat:](https://github.com/SIATINVS/CarlaFLCAV) [:book:](./citations/wang2022federated.txt)
 + [Efficient Federated Learning With Spike Neural Networks for Traffic Sign Recognition](https://ieeexplore.ieee.org/abstract/document/9784851) (Xie, Kan et al., TVT 2022)   [:book:](./citations/xie2022efficient.txt)
 + [FedBEVT: Federated Learning Bird's Eye View Perception Transformer in Road Traffic Systems](https://ieeexplore.ieee.org/document/10236488) (Song, Rui and Xu, Runsheng et al., TIV 2023) [:octocat:](https://github.com/rruisong/FedBEVT) [:book:](./citations/yu2019federated.txt)
 
