@@ -1,7 +1,7 @@
 # Awesome-Federated-Learning-for-Autonomous-Driving
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-105-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving?color=yellow&label=Stars) ![Forks](https://img.shields.io/github/forks/rruisong/Awesome-Federated-Learning-for-Autonomous-Driving?color=green&label=Forks)
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> 
 
 
 This repository is dedicated to curating a comprehensive collection of research papers that explore the implementation of federated learning in Autonomous Driving (AD), Intelligent Transportation Systems (ITS), and Connected and Automated Vehicles (CAV).
@@ -92,8 +92,6 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 
 ### Benchmark
 + [FedDrive: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9981098/) (Fantauzzo, Lidia and others) [:octocat:](https://feddrive.github.io) [:book:](./citations/fantauzzo2022feddrive.txt)
-
-+ []() () [:octocat:]() [:book:](./citations/.txt)
 
 <a name="benchmark" />
 
