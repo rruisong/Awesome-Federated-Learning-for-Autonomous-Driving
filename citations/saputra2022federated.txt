@@ -1,0 +1,9 @@
+@ARTICLE{saputra2022federated,
+  author={Saputra, Yuris Mulya and Nguyen, Diep N. and Hoang, Dinh Thai and Vu, Thang X. and Dutkiewicz, Eryk and Chatzinotas, Symeon},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Federated Learning Meets Contract Theory: Economic-Efficiency Framework for Electric Vehicle Networks}, 
+  year={2022},
+  volume={21},
+  number={8},
+  pages={2803-2817},
+  doi={10.1109/TMC.2020.3045987}}

@@ -1,0 +1,9 @@
+@ARTICLE{lim2021towards,
+  author={Lim, Wei Yang Bryan and Huang, Jianqiang and Xiong, Zehui and Kang, Jiawen and Niyato, Dusit and Hua, Xian-Sheng and Leung, Cyril and Miao, Chunyan},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach}, 
+  year={2021},
+  volume={22},
+  number={8},
+  pages={5140-5154},
+  doi={10.1109/TITS.2021.3056341}}

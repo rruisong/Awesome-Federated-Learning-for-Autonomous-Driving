@@ -14,7 +14,9 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
   - [Perception](#perception)
   - [Behavior Prediction](#behavior)
   - [Localization/SLAM](#localization)
+  - [Traffic Flow Prediction](#trafficflow)
   - [V2X Communication](#v2x)
+  - [Electric Vehicle](#electric)
   - [Blockchain and Pravicy](#blockchain)
   - [Framework](#framework)
   - [Benchmark](#benchmark)
@@ -44,14 +46,33 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 ### Localization/SLAM
 + [FedVCP: A Federated-Learning-Based Cooperative Positioning Scheme for Social Internet of Vehicles](10.1109/TCSS.2021.3062053) (Kong, Xiangjie et al., TCSS 2021) [:octocat:]() [:book:](./citations/kong2021fedvcp.txt)
 + [Reconfigurable Holographic Surface Aided Collaborative Wireless SLAM Using Federated Learning for Autonomous Driving](10.1109/TIV.2023.3285592) (Zhang, Haobo et al., TIV 2023) [:octocat:]() [:book:](./citations/zhang2023reconfigurable.txt)
++ [FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](10.1109/OJSP.2020.3036276) (Yin, Feng et al., OJSP 2020) [:octocat:]() [:book:](./citations/yin2020fedloc.txt)
 
 <a name="localization" />
 
+### Traffic Flow Prediction
++ [Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach](10.1109/JIOT.2020.2991401) (Liu, Yi., JIOT 2020) [:octocat:]() [:book:](./citations/liu2020privacy.txt)
+
+<a name="trafficflow" />
 
 ### V2X Communication
++ [Federated Learning for Ultra-Reliable Low-Latency V2V Communications](10.1109/GLOCOM.2018.8647927) (Lim, Wei Yang Bryan et al., GLOBECOM 2018) [:octocat:]() [:book:](./citations/samarakoon2018federated.txt)
++ [Communication-Efficient Massive UAV Online Path Control: Federated Learning Meets Mean-Field Game Theory](10.1109/TCOMM.2020.3017281) (Shiri, Hamid et al., TCOMM 2020) [:octocat:]() [:book:](./citations/shiri2020communication.txt)
++ [Distributed Federated Learning for Ultra-Reliable Low-Latency Vehicular Communications](10.1109/MeditCom55741.2022.9928621) (Samarakoon, Sumudu et al., TCOMM 2020) [:octocat:]() [:book:](./citations/samarakoon2020tcomm.txt)
++ [Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach](10.1109/ACCESS.2020.2968399) (Ye, Dongdong et al., IEEE Access 2020) [:octocat:]() [:book:](./citations/ye2020federated.txt)
++ [Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach](10.1109/TITS.2021.3056341) (Lim, Wei Yang Bryan et al., TITS 2021) [:octocat:]() [:book:](./citations/lim2021towards.txt)
 + [Federated learning in vehicular networks](10.1109/MeditCom55741.2022.9928621) (Elbir, Ahmet M et al., MeditCom 2022) [:octocat:]() [:book:](./citations/elbir2022federated.txt)
++ [Federated Learning on the Road Autonomous Controller Design for Connected and Autonomous Vehicles](10.1109/TWC.2022.3183996) (Zeng, Tengchan et al., TWC 2022) [:octocat:]() [:book:](./citations/zeng2022federated.txt)
 
 <a name="v2x" />
+
+
+### Electric Vehicle
++ [Energy Demand Prediction with Federated Learning for Electric Vehicle Networks](10.1109/GLOBECOM38437.2019.9013587) (Saputra, Yuris Mulya M et al., GLOBECOM 2019) [:octocat:]() [:book:](./citations/aputra2019energy.txt)
+
++ [Federated Learning Meets Contract Theory: Economic-Efficiency Framework for Electric Vehicle Networks](10.1109/TMC.2020.3045987) (Saputra, Yuris Mulya M et al., TMC 2022) [:octocat:]() [:book:](./citations/saputra2022federated.txt)
+
+<a name="electric" />
 
 
 ### Blockchain and Pravicy
@@ -69,6 +90,7 @@ Its goal is to offer a more detailed and organized overview of this field. We wa
 + [Real-time end-to-end federated learning: An automotive case study](10.1109/COMPSAC51774.2021.00070) (Zhang, Hongyi et al., COMPSAC 2021) [:octocat:]() [:book:](./citations/zhang2021real.txt)
 + [Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](10.1109/ITSC55140.2022.9922064) (Song, Rui et al., ITSC 2022) [:octocat:]() [:book:](./citations/song2022federated.txt)
 + [Deep Federated Learning for Autonomous Driving](10.1109/IV51971.2022.9827020) (Nguyen, Anh et al., IEEE IV 2022) [:octocat:]() [:book:](./citations/nguyen2022deep.txt)
++ [Federated Transfer Reinforcement Learning for Autonomous Driving](10.1007/978-3-031-11748-0_15) (Liang, Xinle et al., Federated and Transfer Learning 2022) [:octocat:]() [:book:](./citations/liang2023federated.txt)
 
 <a name="framework" />
 

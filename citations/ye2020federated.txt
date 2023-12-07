@@ -1,0 +1,9 @@
+@ARTICLE{ye2020federated,
+  author={Ye, Dongdong and Yu, Rong and Pan, Miao and Han, Zhu},
+  journal={IEEE Access}, 
+  title={Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={23920-23935},
+  doi={10.1109/ACCESS.2020.2968399}}

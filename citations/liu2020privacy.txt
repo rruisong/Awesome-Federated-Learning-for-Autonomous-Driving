@@ -1,0 +1,9 @@
+@ARTICLE{liu2020privacy,
+  author={Liu, Yi and Yu, James J. Q. and Kang, Jiawen and Niyato, Dusit and Zhang, Shuyu},
+  journal={IEEE Internet of Things Journal}, 
+  title={Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach}, 
+  year={2020},
+  volume={7},
+  number={8},
+  pages={7751-7763},
+  doi={10.1109/JIOT.2020.2991401}}

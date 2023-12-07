@@ -1,0 +1,9 @@
+@ARTICLE{shiri2020communication,
+  author={Shiri, Hamid and Park, Jihong and Bennis, Mehdi},
+  journal={IEEE Transactions on Communications}, 
+  title={Communication-Efficient Massive UAV Online Path Control: Federated Learning Meets Mean-Field Game Theory}, 
+  year={2020},
+  volume={68},
+  number={11},
+  pages={6840-6857},
+  doi={10.1109/TCOMM.2020.3017281}}

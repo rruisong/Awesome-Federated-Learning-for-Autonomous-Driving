@@ -1,0 +1,9 @@
+@ARTICLE{yin2020fedloc,
+  author={Yin, Feng and Lin, Zhidi and Kong, Qinglei and Xu, Yue and Li, Deshi and Theodoridis, Sergios and Cui, Shuguang Robert},
+  journal={IEEE Open Journal of Signal Processing}, 
+  title={FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing}, 
+  year={2020},
+  volume={1},
+  number={},
+  pages={187-215},
+  doi={10.1109/OJSP.2020.3036276}}

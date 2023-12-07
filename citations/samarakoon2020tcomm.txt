@@ -1,0 +1,9 @@
+@ARTICLE{samarakoon2020tcomm,
+  author={Samarakoon, Sumudu and Bennis, Mehdi and Saad, Walid and Debbah, Mérouane},
+  journal={IEEE Transactions on Communications}, 
+  title={Distributed Federated Learning for Ultra-Reliable Low-Latency Vehicular Communications}, 
+  year={2020},
+  volume={68},
+  number={2},
+  pages={1146-1159},
+  doi={10.1109/TCOMM.2019.2956472}}

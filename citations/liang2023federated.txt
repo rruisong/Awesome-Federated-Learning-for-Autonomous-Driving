@@ -1,0 +1,20 @@
+@Inbook{liang2023federated,
+author="Liang, Xinle
+and Liu, Yang
+and Chen, Tianjian
+and Liu, Ming
+and Yang, Qiang",
+editor="Razavi-Far, Roozbeh
+and Wang, Boyu
+and Taylor, Matthew E.
+and Yang, Qiang",
+title="Federated Transfer Reinforcement Learning for Autonomous Driving",
+bookTitle="Federated and Transfer Learning",
+year="2023",
+publisher="Springer International Publishing",
+address="Cham",
+pages="357--371",
+isbn="978-3-031-11748-0",
+doi="10.1007/978-3-031-11748-0_15",
+url="https://doi.org/10.1007/978-3-031-11748-0_15"
+}

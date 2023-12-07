@@ -1,0 +1,9 @@
+@ARTICLE{zeng2022federated,
+  author={Zeng, Tengchan and Semiari, Omid and Chen, Mingzhe and Saad, Walid and Bennis, Mehdi},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Federated Learning on the Road Autonomous Controller Design for Connected and Autonomous Vehicles}, 
+  year={2022},
+  volume={21},
+  number={12},
+  pages={10407-10423},
+  doi={10.1109/TWC.2022.3183996}}
