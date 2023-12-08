@@ -1,0 +1,9 @@
+@ARTICLE{9690769,
+  author={Han, Xingshuo and Zhou, Yuan and Chen, Kangjie and Qiu, Han and Qiu, Meikang and Liu, Yang and Zhang, Tianwei},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems}, 
+  year={2023},
+  volume={24},
+  number={1},
+  pages={1039-1051},
+  doi={10.1109/TITS.2021.3122906}}

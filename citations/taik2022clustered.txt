@@ -1,0 +1,9 @@
+@ARTICLE{9716076,
+  author={Taïk, Afaf and Mlika, Zoubeir and Cherkaoui, Soumaya},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Clustered Vehicular Federated Learning: Process and Optimization}, 
+  year={2022},
+  volume={23},
+  number={12},
+  pages={25371-25383},
+  doi={10.1109/TITS.2022.3149860}}

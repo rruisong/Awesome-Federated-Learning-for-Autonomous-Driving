@@ -1,0 +1,9 @@
+@INPROCEEDINGS{10167942,
+  author={Gkillas, Alexandros and Arvanitis, Gerasimos and Lalos, Aris S. and Moustakas, Konstantinos},
+  booktitle={2023 24th International Conference on Digital Signal Processing (DSP)}, 
+  title={Federated Learning for Lidar Super Resolution on Automotive Scenes}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/DSP58604.2023.10167942}}

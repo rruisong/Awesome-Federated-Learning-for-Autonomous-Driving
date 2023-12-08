@@ -1,0 +1,9 @@
+@ARTICLE{10205502,
+  author={Fu, Yuchuan and Li, Changle and Yu, F. Richard and Luan, Tom H. and Zhao, Pincan},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={An Incentive Mechanism of Incorporating Supervision Game for Federated Learning in Autonomous Driving}, 
+  year={2023},
+  volume={24},
+  number={12},
+  pages={14800-14812},
+  doi={10.1109/TITS.2023.3297996}}

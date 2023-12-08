@@ -1,0 +1,9 @@
+@ARTICLE{9067847,
+  author={Kwon, Dohyun and Jeon, Joohyung and Park, Soohyun and Kim, Joongheon and Cho, Sungrae},
+  journal={IEEE Internet of Things Journal}, 
+  title={Multiagent DDPG-Based Deep Learning for Smart Ocean Federated Learning IoT Networks}, 
+  year={2020},
+  volume={7},
+  number={10},
+  pages={9895-9903},
+  doi={10.1109/JIOT.2020.2988033}}

@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9964907,
+  author={Khalil, Alvi Ataur and Ashiqur Rahman, Mohammad},
+  booktitle={2022 18th International Conference on Network and Service Management (CNSM)}, 
+  title={FED-UP: Federated Deep Reinforcement Learning-based UAV Path Planning against Hostile Defense System}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={268-274},
+  doi={10.23919/CNSM55787.2022.9964907}}

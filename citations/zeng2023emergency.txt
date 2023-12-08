@@ -1,0 +1,9 @@
+@INPROCEEDINGS{10166254,
+  author={Zeng, Siyuan and Mi, Bo and Huang, Darong},
+  booktitle={2023 IEEE 12th Data Driven Control and Learning Systems Conference (DDCLS)}, 
+  title={Emergency Vehicle Identification for Internet of Vehicles Based on Federated Learning and Homomorphic Encryption}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={208-213},
+  doi={10.1109/DDCLS58216.2023.10166254}}

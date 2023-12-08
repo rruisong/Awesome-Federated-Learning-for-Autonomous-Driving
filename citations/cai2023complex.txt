@@ -1,0 +1,9 @@
+@ARTICLE{10316275,
+  author={Cai, Yingfeng and Lu, Sikai and Wang, Hai and Lian, Yubo and Chen, Long and Liu, Qingchao},
+  journal={IEEE Transactions on Transportation Electrification}, 
+  title={Complex Network Cognition-based Federated Reinforcement Learning for End-to-end Urban Autonomous Driving}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TTE.2023.3332345}}

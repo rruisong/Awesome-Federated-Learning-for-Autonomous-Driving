@@ -1,0 +1,9 @@
+@INPROCEEDINGS{10001889,
+  author={Kim, Jung-Sook},
+  booktitle={2022 Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems (SCIS&ISIS)}, 
+  title={Design of Federated Learning Engagement Method for Autonomous Vehicle Privacy Protection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-2},
+  doi={10.1109/SCISISIS55246.2022.10001889}}

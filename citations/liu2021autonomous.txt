@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9685298,
+  author={Liu, Sha and Fu, Yuchuan and Zhao, Pincan and Li, Fan and Li, Changle},
+  booktitle={2021 IEEE Global Communications Conference (GLOBECOM)}, 
+  title={Autonomous Braking Algorithm for Rear-End Collision via Communication-Efficient Federated Learning}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={01-06},
+  doi={10.1109/GLOBECOM46510.2021.9685298}}

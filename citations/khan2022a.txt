@@ -1,0 +1,9 @@
+@ARTICLE{9831041,
+  author={Khan, Latif U. and Tun, Yan Kyaw and Alsenwi, Madyan and Imran, Muhammad and Han, Zhu and Hong, Choong Seon},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={A Dispersed Federated Learning Framework for 6G-Enabled Autonomous Driving Cars}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TNSE.2022.3188571}}

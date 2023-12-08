@@ -1,0 +1,9 @@
+@ARTICLE{9645064,
+  author={Prathiba, Sahaya Beni and Raja, Gunasekaran and Anbalagan, Sudha and Gurumoorthy, Sugeerthi and Kumar, Neeraj and Guizani, Mohsen},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Cybertwin-Driven Federated Learning Based Personalized Service Provision for 6G-V2X}, 
+  year={2022},
+  volume={71},
+  number={5},
+  pages={4632-4641},
+  doi={10.1109/TVT.2021.3133291}}

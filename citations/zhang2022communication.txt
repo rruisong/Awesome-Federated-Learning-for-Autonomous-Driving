@@ -1,0 +1,9 @@
+@ARTICLE{9760232,
+  author={Zhang, Maojun and Zhu, Guangxu and Wang, Shuai and Jiang, Jiamo and Liao, Qing and Zhong, Caijun and Cui, Shuguang},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Communication-Efficient Federated Edge Learning via Optimal Probabilistic Device Scheduling}, 
+  year={2022},
+  volume={21},
+  number={10},
+  pages={8536-8551},
+  doi={10.1109/TWC.2022.3166941}}

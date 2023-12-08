@@ -1,0 +1,9 @@
+@ARTICLE{9829726,
+  author={Zhang, Zhiwen and Wang, Hongjun and Fan, Zipei and Chen, Jiyuan and Song, Xuan and Shibasaki, Ryosuke},
+  journal={IEEE Internet of Things Journal}, 
+  title={GOF-TTE: Generative Online Federated Learning Framework for Travel Time Estimation}, 
+  year={2022},
+  volume={9},
+  number={23},
+  pages={24107-24121},
+  doi={10.1109/JIOT.2022.3190864}}

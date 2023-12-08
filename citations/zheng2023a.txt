@@ -1,0 +1,9 @@
+@ARTICLE{10328182,
+  author={Zheng, Guhan and Ni, Qiang and Navaie, Keivan and Pervaiz, Haris and Zarakovitis, Charilaos},
+  journal={IEEE Communications Magazine}, 
+  title={A Distributed Learning Architecture for Semantic Communication in Autonomous Driving Networks for Task Offloading}, 
+  year={2023},
+  volume={61},
+  number={11},
+  pages={64-68},
+  doi={10.1109/MCOM.002.2200765}}
