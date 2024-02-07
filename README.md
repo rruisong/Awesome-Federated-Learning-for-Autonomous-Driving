@@ -77,6 +77,7 @@ Welcome contributions from everyone in the form of additional relevant papers, a
 ### Traffic Flow Prediction
 + [Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach](https://ieeexplore.ieee.org/document/9082655) (Liu, Yi et al., JIOT 2020)   [:book:](./citations/liu2020privacy.txt)
 + [BFRT: Blockchained Federated Learning for Real-time Traffic Flow Prediction](https://ieeexplore.ieee.org/document/9082655) (Meese, Collin et al., CCGrid 2022)   [:book:](./citations/meese2022bfrt.txt)
++ [FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units](https://arxiv.org/abs/2401.12862) (Fang, Shaoheng et al., arXiv 2024)   [:book:](./citations/fang2024bfedrsu.txt)
 
 <a name="v2x" />
 

@@ -1,0 +1,6 @@
+@article{fang2024fedrsu,
+  title={FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units},
+  author={Fang, Shaoheng and Ye, Rui and Wang, Wenhao and Liu, Zuhong and Wang, Yuxiao and Wang, Yafei and Chen, Siheng and Wang, Yanfeng},
+  journal={arXiv preprint arXiv:2401.12862},
+  year={2024}
+}
