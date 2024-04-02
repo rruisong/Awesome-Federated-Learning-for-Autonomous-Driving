@@ -25,7 +25,7 @@ Welcome contributions from everyone in the form of additional relevant papers, a
   - [Traffic Flow Prediction](#trafficflow)
   - [V2X Communication](#v2x)
   - [Electric Vehicles](#electric)
-  - [Blockchain and Pravicy](#blockchain)
+  - [Blockchain and Privacy](#blockchain)
   - [Framework](#framework)
   - [Benchmark](#benchmark)
   - [Survey](#survey)
@@ -104,7 +104,7 @@ Welcome contributions from everyone in the form of additional relevant papers, a
 
 <a name="blockchain" />
 
-### Blockchain and Pravicy
+### Blockchain and Privacy
 + [Blockchain-based federated learning for device failure detection in industrial IoT](https://ieeexplore.ieee.org/document/9233457) (Zhang, Weishan et al., JIOT 2020)   [:book:](./citations/zhang2020blockchain.txt)
 + [Federated Learning With Blockchain for Autonomous Vehicles: Analysis and Design Challenges](https://ieeexplore.ieee.org/document/9079513) (Pokhrel, Shiva Raj and Choi, Jinho, TCOMM 2020)   [:book:](./citations/pokhrel2020federated.txt)
 + [Privacy-preserved federated learning for autonomous driving](https://ieeexplore.ieee.org/document/9457207) (Li, Yijing et al., TITS 2021)   [:book:](./citations/li2021privacy.txt)
